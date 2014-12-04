@@ -1,6 +1,7 @@
 socketgo
 ========
 
+[![GoDoc](https://godoc.org/github.com/nulijiabei/socket?status.svg)](https://godoc.org/github.com/nulijiabei/socket)
 
 提供 golang socket 本项目是个代码库
 

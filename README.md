@@ -1,4 +1,4 @@
-socketgo
+socket
 ========
 
 [![GoDoc](https://godoc.org/github.com/nulijiabei/socket?status.svg)](https://godoc.org/github.com/nulijiabei/socket)
@@ -16,7 +16,7 @@ socketgo
 
 自己手动从 github 下载代码后，放置在你的 $GOPATH 的 src/github.com/nulijiabei/socket 目录下
 
-	go install github.com/nulijiabei/socketgo
+	go install github.com/nulijiabei/socket
 	
 
 # 使用
